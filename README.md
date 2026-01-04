@@ -1,7 +1,8 @@
 # SOFi Technologies – Financial Performance & Tech-First Strategy Analysis
 
 ## 📌 Business Use Case
-SOFi Technologies is a U.S.-based financial technology company offering a **digital-only, all-in-one financial platform** spanning banking, lending, investing, and crypto. Founded in 2011 as a student loan refinancing company, SOFi evolved into a diversified digital financial services platform and went public in January 2021.
+SOFi Technologies, a US based financial technology company that provides digital-only platform for all financial needs including banking, lending, investing/crypto integrating all in one digital app. SOFi started as a student loan re-financing company in 2011 then grew into a digital financial services platform and went public in January 2021. Since then , it lists its financial statements to public via US Securities and Exchange Commission.
+
 
 SOFi operates mainly as three segments - Lending Segment (student , personal & housing loans),Financial Services (checking/savings account,investing/crypto) and Technology Platform(technology infrastructure as Technisys and payments infrastructure via Galileo). 
 
@@ -111,10 +112,10 @@ The dashboard visualizes revenue growth, YoY growth trends, efficiency ratio , p
 
 ## 🖥️ Dashboard
 - 📊 **Interactive Power BI Dashboard:**  
-  *https://github.com/vish7715/sofi-financial-analysis/blob/main/SOFi%20Dashboard.pbix*
+  *(https://github.com/vish7715/sofi-financial-analysis/blob/main/SOFi%20Dashboard.pbix)*
 
 - 🐍 **Python SEC Scraping Script:**  
-  *https://github.com/vish7715/FinTech-Analysis/blob/main/Scraping_SEC_Filings_SOFi.ipynb*
+  * (https://github.com/vish7715/FinTech-Analysis/blob/main/Scraping_SEC_Filings_SOFi.ipynb)*
 
 ---
 
