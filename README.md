@@ -42,7 +42,8 @@ An assessment of growth in products, members, and accounts over time.
 ## 🧱 Data Structure
 The analysis is based on three csv files exported via python -
 
-### 1️⃣ Revenue_By_Segment (Fact Table)
+### 1️⃣ Revenue_By_Segment
+
 | Column | Data Type |
 |------|---------|
 | year | Number |
@@ -52,6 +53,7 @@ The analysis is based on three csv files exported via python -
 ---
 
 ### 2️⃣ Non-Interest Expenses
+
 | Column | Data Type |
 |------|---------|
 | expense_type | Text |
@@ -63,11 +65,18 @@ The analysis is based on three csv files exported via python -
 ---
 
 ### 3️⃣ Products_and_Members
+
 | Column | Data Type |
 |------|---------|
 | total_products | Number |
 | total_members | Number |
 | total_accounts | Number |
+| year | Number |
+
+### 1️⃣ Year
+
+| Column | Data Type |
+|------|---------|
 | year | Number |
 
 ---
