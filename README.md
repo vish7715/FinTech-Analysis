@@ -1,4 +1,4 @@
-<a href="/vish7715.github.io">Go to Home Page</a>
+<a href="/vish7715.github.io"> Home </a>
 
 # SOFi Technologies – Financial Performance & Tech-First Strategy Analysis
 
